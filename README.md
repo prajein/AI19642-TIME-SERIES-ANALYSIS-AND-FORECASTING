@@ -3,7 +3,7 @@
 ## Project Information
 - **Course Code:** AI19642
 - **Roll Number:** 221501189
-- **Academic Term:** 2023-2024
+- **Academic Term:** 2025-2026
 
 ## Project Overview
 This repository contains a comprehensive series of time series analysis and forecasting experiments using the Superstores dataset. Each experiment explores different techniques and methodologies for analyzing and predicting time series data.
